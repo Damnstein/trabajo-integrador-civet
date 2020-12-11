@@ -1,4 +1,6 @@
-## Trabajo Práctico Integrador : Python
+## Juego de dados
+
+### Trabajo Práctico Integrador : Python
 
 Realizar un script en Python para simular un juego de dados, según las siguientes
 condiciones:
