@@ -1,5 +1,6 @@
-Trabajo Práctico Integrador : Python
-Realizar un script en Python para simular un juego de dados, según las siguientes
+# Trabajo Práctico Integrador : Python
+
+Realizar un script en Python para simular un juego de dados, según las siguientes /
 condiciones:
 ➢ El juego consistirá en lanzar dos dados. Para simularlo, debemos
 obtener dos números aleatorios entre 1 y 6.
